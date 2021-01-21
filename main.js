@@ -1,3 +1,8 @@
+/*
+Solution of the "Mystery Organism" Codecademy Portfolio Project  
+Jaime Fúster de la Fuente
+21/01/2021
+*/
 // Returns a random DNA base
 const returnRandBase = () => {
   const dnaBases = ['A', 'T', 'C', 'G'];
